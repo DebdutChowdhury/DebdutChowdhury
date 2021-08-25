@@ -20,6 +20,8 @@
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css3" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/></code> 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="Bash" height="50"/>
 <!-- <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" height="50"/> -->
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
@@ -73,7 +75,7 @@
 
 <div align="center">
 <b>Show some &nbsp;❤️&nbsp; by starring some of the repositories!</b><br>
- <i>Credit: <a href="https://github.com/DebdutChowdhury">DebdutChowdhury</a> | Last Edited on: 24/08/2021</i>
+ <i>Credit: <a href="https://github.com/DebdutChowdhury">DebdutChowdhury</a> | Last Edited on: 25/08/2021</i>
  </div>
 <!-- 📊 📈 🎴 💬 ❤ 🐕 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=highcontrast&animation=grow_out_in&layout=default&font=Redressed)
