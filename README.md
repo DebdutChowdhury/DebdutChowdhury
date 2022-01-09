@@ -1,5 +1,5 @@
  
- # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am DEBDUT CHOWDHURY
+ # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am DEBDUT CHOWDHURY][Portfolio]
 <!--  [Portfolio] -->
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
@@ -64,7 +64,7 @@
 
 ---
 [Twitter]: https://twitter.com/ChowdhuryDebdut
-<!-- [Portfolio]: https://swarnadeepghosh.github.io -->
+[Portfolio]: https://debdutchowdhury.netlify.com
 [gmail]: mailto:debdut.chowdhury.official@gmail.com
 [Linkedin]: https://www.linkedin.com/in/debdut-chowdhury-111a54166/
 <!-- [Medium]: https://medium.com/@Swarnadeep -->
