@@ -34,6 +34,7 @@
 <!--<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>-->
 </p>
 
+<!--  ![About](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdutChowdhury&theme=vue) -->
  
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning React, Node and Mongo DB
