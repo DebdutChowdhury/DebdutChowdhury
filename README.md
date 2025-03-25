@@ -64,7 +64,7 @@
 
 ---
 [Twitter]: https://twitter.com/ChowdhuryDebdut
-[Portfolio]: https://debdutchowdhury.netlify.com
+[Portfolio]: https://www.datascienceportfol.io/debdutchowdhuryoffic
 [gmail]: mailto:debdut.chowdhury.official@gmail.com
 [Linkedin]: https://www.linkedin.com/in/debdut-analyst/
 [Medium]: https://medium.com/@debdut.chowdhury
