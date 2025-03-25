@@ -2,12 +2,12 @@
 <!--  # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am DEBDUT CHOWDHURY][Portfolio] -->
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm <a href=https://debdutchowdhury.netlify.com/>Debdut</a></h1>
  
-<!--  [Portfolio] -->
+[<img height="25" src="https://img.shields.io/badge/Portfolio-red?&style=for-the-badge&logo=linkedin&logoColor=white" />][Portfolio]
 [<img height="25" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="25" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][Github]
 [<img height="25" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />][Hackerrank]
 [<img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
-<img height="25" src="https://komarev.com/ghpvc/?username=DebdutChowdhury&color=blueviolet" />
+<img height="25" src="https://komarev.com/ghpvc/?username=DebdutChowdhury&color=blueviolet"/>
 
 <!-- ![alt text](Cover.jpg)-->
 
@@ -15,32 +15,29 @@
 
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css3" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" height="40"/></code> 
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="Bash" height="50"/>
-<!-- <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" height="50"/> -->
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="50"/>
-<img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg" alt="Apollo" height="50"/>
-<!--<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="50"/>-->
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="Bash" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GCP" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Azure" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/metabase/metabase-ar21.svg" alt="Metabase" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/informatica/informatica-ar21.svg" alt="Informatica" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow" height="50"/>
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="Pytorch" height="50"/>
 </p>
 
-<!--  ![About](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdutChowdhury&theme=vue) -->
+![About](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DebdutChowdhury&theme=dark)
  
-- 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning React, Node and Mongo DB
+- 🔭 I’m currently working as a Data Scientist
+- 🌱 I’m currently learning Generative AI
 - 👯 I’m looking to collaborate on Open Source Development projects
 - 🤔 I’m looking for help with Mentorings and Roadmaps
-- 💬 Ask me about Front End Development, GIT and UI Design, 
+- 💬 Ask me about ML Models, GIT, and Generative AI 
 - 📫 How to reach me: Message me on [Linkedin][Linkedin]
 <!--- ⚡ Fun fact: ...-->
 
@@ -69,8 +66,8 @@
 [Twitter]: https://twitter.com/ChowdhuryDebdut
 [Portfolio]: https://debdutchowdhury.netlify.com
 [gmail]: mailto:debdut.chowdhury.official@gmail.com
-[Linkedin]: https://www.linkedin.com/in/debdut-chowdhury-111a54166/
-<!-- [Medium]: https://medium.com/@Swarnadeep -->
+[Linkedin]: https://www.linkedin.com/in/debdut-analyst/
+[Medium]: https://medium.com/@debdut.chowdhury
 [Facebook]: https://www.facebook.com/debdut.chowdhury.14
 [Hackerrank]: https://www.hackerrank.com/debdut_chowdhur1
 [Github]: https://github.com/DebdutChowdhury
